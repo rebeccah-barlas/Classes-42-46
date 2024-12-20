@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|c:\\users\\barla\\source\\repos\\classes 42-46\\classes 42-46\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|solutionrelative:classes 42-46\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|c:\\users\\barla\\source\\repos\\classes 42-46\\classes 42-46\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|solutionrelative:classes 42-46\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|c:\\users\\barla\\source\\repos\\classes 42-46\\classes 42-46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|solutionrelative:classes 42-46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|c:\\users\\barla\\source\\repos\\classes 42-46\\classes 42-46\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160ADA18-11E6-4171-B321-CE7B03A577BE}|Classes 42-46\\Classes 42-46.csproj|solutionrelative:classes 42-46\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Point.cs",
+              "RelativeDocumentMoniker": "Classes 42-46\\Point.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Point.cs",
+              "RelativeToolTip": "Classes 42-46\\Point.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:57:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Square.cs",
+              "RelativeDocumentMoniker": "Classes 42-46\\Square.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Square.cs",
+              "RelativeToolTip": "Classes 42-46\\Square.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:41:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Triangle.cs",
+              "RelativeDocumentMoniker": "Classes 42-46\\Triangle.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Triangle.cs",
+              "RelativeToolTip": "Classes 42-46\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:07:40.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Program.cs",
+              "RelativeDocumentMoniker": "Classes 42-46\\Program.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Classes 42-46\\Classes 42-46\\Program.cs",
+              "RelativeToolTip": "Classes 42-46\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:56:17.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
